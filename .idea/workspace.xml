@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8944bd0-1f9f-4e8d-8555-4b3e10bc0b10" name="Default" comment="" />
+    <list default="true" id="a8944bd0-1f9f-4e8d-8555-4b3e10bc0b10" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../MavenProhance/src/main/java/tests/basictest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenProhance/src/main/java/tests/basictest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../MavenProhance/out/" />
     <ignored path="$PROJECT_DIR$/../MavenProhance/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +27,8 @@
       <file leaf-file-name="basictest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../MavenProhance/src/main/java/tests/basictest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            <state relative-caret-position="277">
+              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,6 +45,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../MavenProhance" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -56,6 +61,7 @@
     <option name="width" value="1903" />
     <option name="height" value="1113" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -192,7 +198,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885087" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -226,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../MavenProhance/src/main/java/tests/basictest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="277">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

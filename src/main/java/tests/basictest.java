@@ -21,17 +21,6 @@ public class basictest {
         driver.findElement(By.xpath("//input[@class='btn-login']")).click();
         String NavigatedURL = driver.getTitle();
         System.out.println(NavigatedURL);
-//        Assert.assertEquals(NavigatedURL, "Welcome");
-//        Thread.sleep(3000);
-//        driver.findElement(By.xpath("//a[@title='Navigator']")).click();
-//        Thread.sleep(4000);
-//        driver.findElement(By.xpath("//a[text()='Person Management']")).click();
-//        Thread.sleep(10000);
-//        driver.findElement(By.xpath("//label[text()='Name']/../..//input")).sendKeys("kumar");
-//        driver.findElement(By.xpath("//button[text()='Search']")).click();
-//        Thread.sleep(2000);
-//        driver.quit();
-
     }
 
 
